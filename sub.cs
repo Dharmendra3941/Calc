@@ -1,2 +1,1 @@
-we have fixed the variable change issue.
-now we are good
+int c = a + b;
